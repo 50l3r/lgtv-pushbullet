@@ -1,0 +1,15 @@
+[
+  {"displayName": "Netflix", "id": "netflix"},
+  {"displayName": "Youtube", "id": "youtube.leanback.v4"},
+  {"displayName": "Tv", "id": "com.webos.app.livetv"},
+  {"displayName": "Rakuten", "id": "ui30"},
+  {"displayName": "Movistar", "id": "canal.yomvi"},
+  {"displayName": "Mitele", "id": "com.mitele.app"},
+  {"displayName": "Spotify", "id": "spotify-beehive"},
+  {"displayName": "Amazon Prime Video", "id": "amazon"},
+  {"displayName": "Google Play", "id": "googleplaymovieswebos"},
+  {"displayName": "Plex", "id": "cdp-30"},
+  {"displayName": "Lg Store", "id": "com.webos.app.discovery"},
+  {"displayName": "Screen Share", "id": "com.webos.app.miracast"},
+  {"displayName": "HDMI", "id": "com.webos.app.hdmi1"}
+]

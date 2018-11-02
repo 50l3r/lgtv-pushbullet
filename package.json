@@ -1,0 +1,30 @@
+{
+  "name": "lgtv-pushbullet",
+  "version": "1.0.0",
+  "description": "LGTV Remote Control with Pushbullet",
+  "main": "index.js",
+  "dependencies": {
+    "lgtv2": "^1.4.1",
+    "pushbullet": "^2.3.0",
+    "wakeonlan": "^0.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+	"test": "echo \"Error: no test specified\" && exit 1",
+	"stream": "node index.js stream"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/50l3r/lgtv-pushbullet.git"
+  },
+  "keywords": [
+    "lgtv",
+    "pushbullet"
+  ],
+  "author": "50l3r",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/50l3r/lgtv-pushbullet/issues"
+  },
+  "homepage": "https://github.com/50l3r/lgtv-pushbullet#readme"
+}
